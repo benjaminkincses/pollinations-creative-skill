@@ -1,5 +1,7 @@
 # pollinations-creative-skill
 
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
+
 An agent skill that turns a topic into a finished storybook: story text,
 consistent illustrations and voice narration, all generated with
 Pollinations models and assembled into one HTML page.
