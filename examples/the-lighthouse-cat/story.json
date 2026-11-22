@@ -1,0 +1,23 @@
+{
+  "title": "Whiskerlight, the Lighthouse Cat",
+  "style": "Hand-painted storybook gouache illustrations with soft texture, warm golden palette, and gentle twilight mood.",
+  "character": "Whiskerlight is a small gray tabby cat with bright green eyes, a white chin, and a brass bell tied to a red ribbon.",
+  "pages": [
+    {
+      "text": "At the edge of the sea, a lighthouse keeper kept his lantern steady—and his friend Whiskerlight kept watch. When the waves went quiet, Whiskerlight listened for lonely ships calling from the dark.",
+      "scene": "A lighthouse tower glows softly as Whiskerlight perches on the railing, her brass bell catching moonlight while the ocean stretches in shadow."
+    },
+    {
+      "text": "One stormy night, a ship’s signal flickered and faltered beyond the rocks. Whiskerlight padded along the iron stairs, pushed the keeper’s brass compass, and meowed until the lantern turned true.",
+      "scene": "Inside the lantern room, the keeper hurries while Whiskerlight nudges a compass on a table as lightning flashes and the beacon sweeps toward the safer path."
+    },
+    {
+      "text": "Far below, Whiskerlight’s bell chimed in the wind, like a tiny guiding star. The ship followed the bright arc, and the rocks stayed hidden in mist.",
+      "scene": "In the storm, a distant ship steers through fog as Whiskerlight stands at an open window, bell swinging, while the lighthouse beam draws a protective curve."
+    },
+    {
+      "text": "When morning arrived, the ship’s lights faded into grateful waves—and Whiskerlight curled by the warm lantern. The keeper smiled and said, “Home is never far, when you have a guide.”",
+      "scene": "Sunrise spills across calm water as Whiskerlight sleeps by the lighthouse door, and the sea reflects the fading golden beam."
+    }
+  ]
+}
